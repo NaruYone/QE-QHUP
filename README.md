@@ -1,12 +1,12 @@
-# LUCID PPSH Phase Tools
+# PPSH Phase Analysis Tools
 
-MATLAB tools for real-time parallel phase-shifting interferometry (PPSI) viewing and offline Zernike analysis of PPSH/LUCID polarization hologram data.
+MATLAB tools for real-time parallel phase-shifting interferometry (PPSI) viewing and offline Zernike analysis of PPSH polarization hologram data.
 
 This repository is intended for experiments that use a LUCID polarization camera to obtain four polarization phase-shifting components and analyze the resulting wrapped phase distributions.
 
 ## What This Repository Provides
 
-- Real-time display of hologram components, amplitude, and wrapped phase from a LUCID polarization camera
+- Real-time display of hologram components, amplitude, and wrapped phase from a polarization camera
 - Offline extraction of wrapped phase maps from saved hologram TIFF images
 - Phase smoothing using complex-field averaging
 - Zernike fitting of phase distributions up to Noll index Z21
@@ -18,7 +18,7 @@ This repository is intended for experiments that use a LUCID polarization camera
 
 <p align="center">
   <img src="docs/figures/realtime_viewer_example.gif" width="700" alt="Real-time PPSI viewer"><br>
-  <em>Real-time PPSI viewer displaying the hologram, amplitude, and wrapped phase from a LUCID polarization camera.</em>
+  <em>Real-time PPSI viewer displaying the hologram, amplitude, and wrapped phase from a \polarization camera.</em>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ This repository is intended for experiments that use a LUCID polarization camera
 
 | Directory | Use When You Want To... |
 | --- | --- |
-| `lucid-realtime-ppsi-viewer/` | View live PPSI phase from a LUCID polarization camera. |
+| `lucid-realtime-ppsi-viewer/` | View live PPSI phase from a polarization camera. |
 | `ppsh-zernike-phase-analysis/` | Analyze saved TIFF holograms and obtain Zernike coefficients. |
 
 ## Phase Reconstruction
