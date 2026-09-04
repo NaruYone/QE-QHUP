@@ -14,13 +14,21 @@ This repository is intended for experiments that use a LUCID polarization camera
 
 ## Examples
 
+## Examples
+
 <p align="center">
-  <img src="docs/figures/realtime_viewer_example.gif" width="700" alt="Real-time PPSI viewer">
+  <img src="docs/figures/realtime_viewer_example.gif" width="700" alt="Real-time PPSI viewer"><br>
+  <em>Real-time PPSI viewer displaying the hologram, amplitude, and wrapped phase from a LUCID polarization camera.</em>
 </p>
 
 <p align="center">
-  <img src="docs/figures/zernike_phase_example.png" width="420" alt="Zernike mode distribution">
-  <img src="docs/figures/zernike_coefficients_example.png" width="420" alt="Zernike coefficients">
+  <img src="docs/figures/zernike_phase_example.png" width="420" alt="Zernike mode distribution"><br>
+  <em>Example Zernike mode distribution.</em>
+</p>
+
+<p align="center">
+  <img src="docs/figures/zernike_coefficients_example.png" width="420" alt="Zernike coefficients"><br>
+  <em>Example of all-coefficient bar chart showing fitted Zernike coefficients.</em>
 </p>
 
 ## Tools
@@ -176,7 +184,6 @@ For real-time PPSI measurements:
 - exposure time
 - gain
 - frame rate
-- Arena SDK version
 
 For offline Zernike analysis:
 
@@ -186,5 +193,4 @@ For offline Zernike analysis:
 - ROI size
 - maximum Zernike index
 - unwrapping setting
-- Zernike convention
 
