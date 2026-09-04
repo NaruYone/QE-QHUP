@@ -15,12 +15,12 @@ This repository is intended for experiments that use a LUCID polarization camera
 ## Examples
 
 <p align="center">
-  <img src="figures/realtime_viewer_example.gif" width="700" alt="Real-time PPSI viewer">
+  <img src="docs/figures/realtime_viewer_example.gif" width="700" alt="Real-time PPSI viewer">
 </p>
 
 <p align="center">
-  <img src="figures/zernike_phase_example.png" width="420" alt="Zernike mode distribution">
-  <img src="figures/zernike_coefficients_example.png" width="420" alt="Zernike coefficients">
+  <img src="docs/figures/zernike_phase_example.png" width="420" alt="Zernike mode distribution">
+  <img src="docs/figures/zernike_coefficients_example.png" width="420" alt="Zernike coefficients">
 </p>
 
 ## Tools
